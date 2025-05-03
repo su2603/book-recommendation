@@ -1,0 +1,5 @@
+{
+    "tfidf_vectorizer": "TfidfVectorizer",
+    "books_data": "DataFrame",
+    "isbn_to_idx": "dict"
+}

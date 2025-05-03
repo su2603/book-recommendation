@@ -1,0 +1,8 @@
+{
+    "popularity_threshold": 50,
+    "user_interactions_threshold": 100,
+    "rating_threshold": 3,
+    "book_ratings_threshold_perc": 0.1,
+    "svd_factors": 15,
+    "content_batch_size": 1000
+}
