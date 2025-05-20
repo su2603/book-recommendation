@@ -1,5 +1,5 @@
 
-# 📚 Book Recommendation System Documentation
+# 📚 Book Recommendation System 
 
 This documentation provides an in-depth explanation of the Book Recommendation System implemented using Python. It combines multiple recommendation strategies, data preprocessing techniques, and utility tools for model inspection and evaluation.
 
